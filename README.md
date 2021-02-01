@@ -1,4 +1,4 @@
-# Golang-realtime-chat
+# Golang-realtime-chat-rooms
 
 ### Start the server
 `go run *.go`
